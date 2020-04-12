@@ -1,0 +1,29 @@
+h1
+{
+    color:brown
+
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    border:solid;
+
+}
+.header *{
+    border : solid;
+}
+Grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+}
+h2{
+    text-align: center;
+}
